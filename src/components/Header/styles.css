@@ -1,0 +1,17 @@
+#header{
+  display: flex;
+  height: 64px;
+  background-color: #4A90E2;
+}
+#header nav{
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: space-between;
+  flex: 1;
+  max-width: 90%;
+  margin: 0 auto;
+}
+#header nav a{
+  color: #ffffff;
+}
