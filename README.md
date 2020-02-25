@@ -20,6 +20,13 @@ Criar uma aplicação do zero utilizando **Webpack, Babel, Webpack Dev Server e 
 <h1 align="center">
 <img alt="Tela" src="https://user-images.githubusercontent.com/2512512/75277559-facc2980-57e6-11ea-8b85-554855faae3c.gif"/>
 </h1>
+
+### Instruções ###
+```
+yarn install && yarn dev
+```
+Quando yarn executar, abra: http://localhost:8080/.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
